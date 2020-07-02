@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799500684375",
+    "firebase_url": "https://ransom-3f117.firebaseio.com",
+    "project_id": "ransom-3f117",
+    "storage_bucket": "ransom-3f117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799500684375:android:ba3d816494bc1120f82712",
+        "android_client_info": {
+          "package_name": "com.ransomapp.ransomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799500684375-qrcpjbrrr8dq5ge3dsvgj5nfsf3inb65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ransomapp.ransomapp",
+            "certificate_hash": "beb3783839a81596012b968955e5bb2a18933dce"
+          }
+        },
+        {
+          "client_id": "799500684375-mu8j6d6r72cljn10m3cssjog2d76clh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83nw5fM2f3zquz20S3R7g6mkOX465YCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799500684375-mu8j6d6r72cljn10m3cssjog2d76clh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799500684375-qiubp0e8st1ekfhm8pia1dkvasle4urc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ransomapp.ransomapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
